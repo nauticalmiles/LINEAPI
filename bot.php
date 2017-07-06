@@ -44,4 +44,6 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
+echo $replyToken . "\r\n";
+echo $message . "\r\n";
 echo "OK";
